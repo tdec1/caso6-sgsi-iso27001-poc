@@ -1,0 +1,217 @@
+{
+  "E1_dimensionamiento": {
+    "por_fuente": {
+      "endpoint": {
+        "cantidad": 380,
+        "eps_unidad": 0.5,
+        "eps": 190.0,
+        "bytes_evento": 722,
+        "gb_dia": 11.85,
+        "gb_dia_analitico": 4.74,
+        "gb_dia_lago": 7.11
+      },
+      "servidor": {
+        "cantidad": 90,
+        "eps_unidad": 3.0,
+        "eps": 270.0,
+        "bytes_evento": 722,
+        "gb_dia": 16.83,
+        "gb_dia_analitico": 8.42,
+        "gb_dia_lago": 8.42
+      },
+      "controlador_dom": {
+        "cantidad": 2,
+        "eps_unidad": 40.0,
+        "eps": 80.0,
+        "bytes_evento": 729,
+        "gb_dia": 5.04,
+        "gb_dia_analitico": 5.04,
+        "gb_dia_lago": 0.0
+      },
+      "ngfw_sede": {
+        "cantidad": 2,
+        "eps_unidad": 150.0,
+        "eps": 300.0,
+        "bytes_evento": 388,
+        "gb_dia": 10.05,
+        "gb_dia_analitico": 1.0,
+        "gb_dia_lago": 9.04
+      },
+      "ngfw_sucursal": {
+        "cantidad": 8,
+        "eps_unidad": 10.0,
+        "eps": 80.0,
+        "bytes_evento": 392,
+        "gb_dia": 2.71,
+        "gb_dia_analitico": 0.27,
+        "gb_dia_lago": 2.44
+      },
+      "switch": {
+        "cantidad": 40,
+        "eps_unidad": 0.5,
+        "eps": 20.0,
+        "bytes_evento": 385,
+        "gb_dia": 0.66,
+        "gb_dia_analitico": 0.0,
+        "gb_dia_lago": 0.66
+      },
+      "waf": {
+        "cantidad": 1,
+        "eps_unidad": 100.0,
+        "eps": 100.0,
+        "bytes_evento": 287,
+        "gb_dia": 2.48,
+        "gb_dia_analitico": 2.48,
+        "gb_dia_lago": 0.0
+      },
+      "correo": {
+        "cantidad": 1,
+        "eps_unidad": 20.0,
+        "eps": 20.0,
+        "bytes_evento": 573,
+        "gb_dia": 0.99,
+        "gb_dia_analitico": 0.99,
+        "gb_dia_lago": 0.0
+      },
+      "base_datos": {
+        "cantidad": 4,
+        "eps_unidad": 12.5,
+        "eps": 50.0,
+        "bytes_evento": 349,
+        "gb_dia": 1.51,
+        "gb_dia_analitico": 1.51,
+        "gb_dia_lago": 0.0
+      },
+      "idp_mfa": {
+        "cantidad": 1,
+        "eps_unidad": 40.0,
+        "eps": 40.0,
+        "bytes_evento": 1022,
+        "gb_dia": 3.53,
+        "gb_dia_analitico": 3.53,
+        "gb_dia_lago": 0.0
+      },
+      "vpn": {
+        "cantidad": 1,
+        "eps_unidad": 10.0,
+        "eps": 10.0,
+        "bytes_evento": 194,
+        "gb_dia": 0.17,
+        "gb_dia_analitico": 0.17,
+        "gb_dia_lago": 0.0
+      }
+    },
+    "eps_promedio": 1160.0,
+    "eps_pico_5x": 5800.0,
+    "gb_dia_total": 55.8,
+    "gb_dia_analitico": 28.1,
+    "gb_dia_lago": 27.7,
+    "ratio_compresion_gzip": 7.2,
+    "tb_archivo_1_anio_comprimido": 2.84,
+    "tb_analitico_90_dias": 2.53,
+    "mbps_promedio_hacia_nube": 5.17,
+    "mbps_pico_5x": 25.84
+  },
+  "E2_deteccion": {
+    "duracion_simulada_min": 31.666666666666668,
+    "eventos_procesados": 3339760,
+    "pico": "5x durante 3 min",
+    "eps_procesados_1_nucleo": 3215732,
+    "segundos_cpu": 1.04,
+    "ataques_inyectados": 70,
+    "ataques_detectados": 70,
+    "recall_global": 1.0,
+    "alertas_por_pico_de_carga": 1,
+    "alertas_duplicadas_mismo_incidente": 5,
+    "falsos_positivos": 0,
+    "detalle_falsos_positivos": [],
+    "por_caso_de_uso": {
+      "UC01_fuerza_bruta": {
+        "inyectados": 10,
+        "detectados": 10,
+        "recall": 1.0
+      },
+      "UC02_fatiga_mfa": {
+        "inyectados": 10,
+        "detectados": 10,
+        "recall": 1.0
+      },
+      "UC03_viaje_imposible": {
+        "inyectados": 10,
+        "detectados": 10,
+        "recall": 1.0
+      },
+      "UC05_clic_phishing": {
+        "inyectados": 10,
+        "detectados": 10,
+        "recall": 1.0
+      },
+      "UC09_escaneo": {
+        "inyectados": 10,
+        "detectados": 10,
+        "recall": 1.0
+      },
+      "UC10_dos": {
+        "inyectados": 10,
+        "detectados": 10,
+        "recall": 1.0
+      },
+      "UC13_escalada": {
+        "inyectados": 10,
+        "detectados": 10,
+        "recall": 1.0
+      }
+    }
+  },
+  "E3_latencia": {
+    "UC01_fuerza_bruta": {
+      "tipo_regla": "NRT (60 s)",
+      "p50_s": 64,
+      "p95_s": 165,
+      "cumple_meta": true
+    },
+    "UC02_fatiga_mfa": {
+      "tipo_regla": "NRT (60 s)",
+      "p50_s": 64,
+      "p95_s": 163,
+      "cumple_meta": true
+    },
+    "UC03_viaje_imposible": {
+      "tipo_regla": "programada (300 s)",
+      "p50_s": 191,
+      "p95_s": 343,
+      "cumple_meta": true
+    },
+    "UC05_clic_phishing": {
+      "tipo_regla": "programada (300 s)",
+      "p50_s": 194,
+      "p95_s": 347,
+      "cumple_meta": true
+    },
+    "UC09_escaneo": {
+      "tipo_regla": "NRT (60 s)",
+      "p50_s": 64,
+      "p95_s": 161,
+      "cumple_meta": true
+    },
+    "UC10_dos": {
+      "tipo_regla": "NRT (60 s)",
+      "p50_s": 64,
+      "p95_s": 166,
+      "cumple_meta": true
+    },
+    "UC13_escalada": {
+      "tipo_regla": "NRT (60 s)",
+      "p50_s": 65,
+      "p95_s": 164,
+      "cumple_meta": true
+    }
+  },
+  "conclusion_supuesto": {
+    "gb_dia_analitico_<=_30": true,
+    "recall_>=_0.95": true,
+    "p95_NRT_<=_300s": true,
+    "motor_soporta_pico_5x": true
+  },
+  "tiempo_total_s": 12.4
+}
