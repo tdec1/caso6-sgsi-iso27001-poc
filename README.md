@@ -20,6 +20,3 @@ La semilla es fija (27001), por lo que los resultados son reproducibles.
 - Todos los datos son sintéticos. No se usaron datos reales de ninguna entidad.
 - La encuesta y las entrevistas son simuladas con IA con autorización del docente.
 - La PoC no es un SIEM real: valida el dimensionamiento y la lógica de detección.
-
-## Declaración de uso de IA
-Ver el Anexo R del documento de anexos.
