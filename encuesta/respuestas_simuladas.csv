@@ -1,0 +1,65 @@
+id,P1,P2,P3,P4,P5,P6,P7,P8,P9,P10,P11,P12,P13,P14,P15,P16,P17,P18
+1,Sí,26-35,Administrativo,Mensual,No,No,Alguna vez,Sí,No,4,Notificación con número,Solo si la empresa lo provee,4,0,Video corto,Depende,3,Menos contraseñas
+2,No,26-35,No aplica,Mensual,Sí,No,Nunca,Algunas,No,5,Huella o rostro,Sí,3,1-2,Taller presencial,Sí,3,Un botón único para reportar
+3,Sí,26-35,Administrativo,Semanal,No,Sí,Con frecuencia,Sí,Solo trabajo,4,Huella o rostro,Sí,5,0,Simulación,Sí,3,Reconocimiento y no sanción
+4,Sí,26-35,Atención al público,Semanal,Sí,Sí,Alguna vez,Algunas,Solo banco,3,Código SMS,Sí,2,1-2,Simulación,Depende,1,Procesos más simples
+5,Sí,26-35,Técnico (TI),Semanal,No,Sí,Nunca,No,No,5,Notificación con número,Sí,3,1-2,Simulación,"No, por temor a sanción",5,Reconocimiento y no sanción
+6,Sí,46-55,Administrativo,Semanal,No,No,Nunca,No,"Sí, en ambos",4,Huella o rostro,Solo si la empresa lo provee,4,0,Lectura,Sí,3,Un botón único para reportar
+7,Sí,>55,Técnico (TI),Semanal,No,Sí,Nunca,Algunas,Solo banco,4,Huella o rostro,Sí,3,1-2,Taller presencial,Sí,4,Capacitación corta y frecuente
+8,Sí,46-55,Administrativo,Mensual,No,No,Nunca,Algunas,No,2,Huella o rostro,Sí,3,>5,Simulación,Depende,5,Procesos más simples
+9,Sí,26-35,Atención al público,Semanal,No,No,Nunca,Algunas,Solo trabajo,5,Código SMS,Solo si la empresa lo provee,3,0,Simulación,Depende,2,Procesos más simples
+10,Sí,26-35,Técnico (TI),Mensual,Sí,Sí,Nunca,Sí,"Sí, en ambos",4,Huella o rostro,Solo si la empresa lo provee,5,3-5,Lectura,Sí,4,Procesos más simples
+11,Sí,18-25,Técnico (TI),Mensual,No,Sí,Nunca,Sí,No,4,Huella o rostro,Solo si la empresa lo provee,4,>5,Simulación,Sí,4,Procesos más simples
+12,No,36-45,No aplica,Mensual,No,No,Nunca,Algunas,"Sí, en ambos",4,Código SMS,Solo si la empresa lo provee,4,1-2,Video corto,Depende,5,Capacitación corta y frecuente
+13,No,18-25,No aplica,Semanal,No sé,Sí,Nunca,Algunas,Solo banco,4,Huella o rostro,Sí,4,1-2,Taller presencial,Sí,4,Procesos más simples
+14,Sí,18-25,Administrativo,Mensual,No,Sí,Nunca,Sí,"Sí, en ambos",5,Huella o rostro,Sí,4,1-2,Simulación,Sí,2,Capacitación corta y frecuente
+15,Sí,36-45,Administrativo,Mensual,No,Sí,Alguna vez,No,Solo banco,5,Notificación con número,Sí,4,3-5,Simulación,Sí,3,Procesos más simples
+16,Sí,18-25,Directivo,Semanal,No sé,No,Nunca,Algunas,"Sí, en ambos",3,Notificación con número,Sí,4,>5,Simulación,Sí,5,Un botón único para reportar
+17,Sí,26-35,Atención al público,Diaria,Sí,No,Nunca,No,No,2,Notificación con número,Solo si la empresa lo provee,2,1-2,Video corto,"No, por temor a sanción",3,Un botón único para reportar
+18,Sí,46-55,Técnico (TI),Semanal,No,Sí,Nunca,No,"Sí, en ambos",5,Código SMS,Sí,3,1-2,Lectura,Depende,2,Capacitación corta y frecuente
+19,Sí,36-45,Atención al público,Mensual,No,No,Con frecuencia,Algunas,"Sí, en ambos",3,Notificación con número,No,4,0,Simulación,Sí,3,Menos contraseñas
+20,Sí,36-45,Atención al público,Nunca,No,No,Nunca,Algunas,Solo banco,5,Notificación con número,Solo si la empresa lo provee,4,>5,Video corto,Sí,5,Menos contraseñas
+21,Sí,18-25,Administrativo,Semanal,Sí,No,Alguna vez,Algunas,Solo banco,3,Notificación con número,Sí,2,1-2,Simulación,Depende,3,Procesos más simples
+22,Sí,36-45,Atención al público,Mensual,Sí,Sí,Alguna vez,Sí,Solo banco,4,Notificación con número,Sí,3,3-5,Video corto,Sí,5,Menos contraseñas
+23,Sí,36-45,Administrativo,Mensual,No,Sí,Nunca,Algunas,No,3,Código SMS,Sí,4,3-5,Taller presencial,Depende,4,Reconocimiento y no sanción
+24,Sí,36-45,Administrativo,Mensual,No,No,Nunca,Sí,"Sí, en ambos",5,Llave física,Sí,3,3-5,Simulación,Sí,2,Menos contraseñas
+25,Sí,18-25,Técnico (TI),Mensual,No,Sí,Alguna vez,Algunas,No,2,Notificación con número,Sí,5,0,Lectura,Sí,3,Capacitación corta y frecuente
+26,Sí,46-55,Técnico (TI),Mensual,Sí,Sí,Nunca,Sí,"Sí, en ambos",5,Notificación con número,Sí,5,0,Taller presencial,Sí,3,Un botón único para reportar
+27,No,18-25,No aplica,Mensual,Sí,No,Nunca,No,Solo banco,5,Código SMS,No,3,3-5,Taller presencial,Depende,1,Procesos más simples
+28,Sí,26-35,Atención al público,Semanal,No,Sí,Alguna vez,Sí,Solo banco,4,Notificación con número,Sí,4,3-5,Video corto,Depende,4,Procesos más simples
+29,Sí,26-35,Administrativo,Diaria,Sí,Sí,Alguna vez,No,"Sí, en ambos",3,Huella o rostro,Sí,4,0,Taller presencial,Sí,2,Procesos más simples
+30,Sí,18-25,Administrativo,Mensual,No,Sí,Nunca,Algunas,No,4,Código SMS,Sí,5,>5,Video corto,Depende,2,Un botón único para reportar
+31,Sí,18-25,Atención al público,Semanal,No,No,Alguna vez,Algunas,"Sí, en ambos",2,Notificación con número,Sí,3,0,Simulación,"No, por temor a sanción",4,Procesos más simples
+32,Sí,26-35,Administrativo,Semanal,Sí,No,Alguna vez,Sí,Solo banco,5,Notificación con número,Sí,3,1-2,Taller presencial,Depende,5,Capacitación corta y frecuente
+33,Sí,36-45,Administrativo,Mensual,Sí,Sí,Nunca,No,Solo banco,5,Notificación con número,Solo si la empresa lo provee,3,3-5,Taller presencial,Depende,5,Un botón único para reportar
+34,Sí,36-45,Administrativo,Semanal,Sí,Sí,Nunca,Algunas,Solo banco,5,Notificación con número,Sí,4,0,Video corto,Depende,2,Un botón único para reportar
+35,Sí,46-55,Administrativo,Nunca,No sé,Sí,Alguna vez,Algunas,"Sí, en ambos",3,Huella o rostro,Sí,3,0,Taller presencial,Sí,2,Capacitación corta y frecuente
+36,Sí,18-25,Atención al público,Semanal,No sé,Sí,Nunca,Algunas,Solo banco,5,Notificación con número,No,4,0,Video corto,Depende,4,Un botón único para reportar
+37,Sí,18-25,Administrativo,Semanal,No,Sí,Nunca,Sí,No,4,Notificación con número,Sí,5,0,Video corto,Sí,4,Procesos más simples
+38,Sí,36-45,Técnico (TI),Mensual,No,No,Alguna vez,No,No,5,Huella o rostro,Solo si la empresa lo provee,3,1-2,Simulación,Sí,3,Reconocimiento y no sanción
+39,Sí,18-25,Atención al público,Semanal,No,No,Nunca,Algunas,"Sí, en ambos",5,Notificación con número,Sí,2,1-2,Simulación,Sí,5,Un botón único para reportar
+40,Sí,26-35,Administrativo,Semanal,Sí,Sí,Alguna vez,Algunas,Solo banco,3,Llave física,Solo si la empresa lo provee,5,1-2,Taller presencial,Sí,3,Reconocimiento y no sanción
+41,Sí,26-35,Atención al público,Mensual,No,No,Alguna vez,Sí,"Sí, en ambos",4,Llave física,Solo si la empresa lo provee,3,1-2,Lectura,Depende,3,Procesos más simples
+42,Sí,18-25,Directivo,Mensual,No,Sí,Nunca,Sí,"Sí, en ambos",3,Notificación con número,Solo si la empresa lo provee,5,1-2,Video corto,Sí,5,Un botón único para reportar
+43,Sí,18-25,Administrativo,Semanal,No,No,Alguna vez,Sí,Solo banco,4,Notificación con número,Solo si la empresa lo provee,4,1-2,Video corto,Depende,4,Menos contraseñas
+44,Sí,18-25,Técnico (TI),Semanal,No,Sí,Nunca,Sí,Solo banco,4,Huella o rostro,Sí,2,0,Simulación,Sí,3,Un botón único para reportar
+45,Sí,26-35,Administrativo,Diaria,No,Sí,Con frecuencia,Sí,No,2,Código SMS,Sí,4,0,Video corto,"No, por temor a sanción",2,Capacitación corta y frecuente
+46,No,18-25,No aplica,Mensual,No,Sí,Nunca,Algunas,Solo banco,4,Huella o rostro,Sí,5,1-2,Simulación,"No, por temor a sanción",2,Un botón único para reportar
+47,Sí,36-45,Administrativo,Nunca,No,Sí,Alguna vez,No,No,3,Huella o rostro,Solo si la empresa lo provee,4,0,Video corto,Depende,2,Un botón único para reportar
+48,Sí,26-35,Administrativo,Mensual,No,Sí,Con frecuencia,Sí,Solo banco,5,Ninguno,Sí,3,1-2,Lectura,Sí,2,Procesos más simples
+49,Sí,18-25,Administrativo,Mensual,No,Sí,Alguna vez,No,Solo banco,4,Huella o rostro,Sí,5,1-2,Video corto,Sí,5,Un botón único para reportar
+50,Sí,46-55,Atención al público,Mensual,Sí,No,Alguna vez,Sí,"Sí, en ambos",4,Código SMS,No,4,1-2,Simulación,Sí,3,Un botón único para reportar
+51,Sí,18-25,Administrativo,Mensual,No,Sí,Nunca,Sí,No,3,Código SMS,Sí,3,0,Simulación,"No, por temor a sanción",4,Capacitación corta y frecuente
+52,Sí,26-35,Administrativo,Mensual,No sé,No,Nunca,Algunas,"Sí, en ambos",5,Notificación con número,Sí,3,0,Taller presencial,Sí,4,Un botón único para reportar
+53,Sí,26-35,Administrativo,Diaria,No,No,Nunca,Algunas,"Sí, en ambos",2,Notificación con número,Sí,4,0,Video corto,Sí,5,Reconocimiento y no sanción
+54,Sí,18-25,Atención al público,Mensual,No,No,Alguna vez,Algunas,No,3,Huella o rostro,Sí,4,1-2,Simulación,"No, por temor a sanción",4,Capacitación corta y frecuente
+55,Sí,26-35,Atención al público,Semanal,No,Sí,Nunca,Algunas,"Sí, en ambos",4,Código SMS,Sí,4,1-2,Video corto,Depende,4,Reconocimiento y no sanción
+56,Sí,26-35,Técnico (TI),Semanal,No sé,No,Nunca,Sí,"Sí, en ambos",4,Huella o rostro,No,4,3-5,Taller presencial,"No, por temor a sanción",5,Procesos más simples
+57,Sí,26-35,Atención al público,Diaria,No,No,Alguna vez,Algunas,"Sí, en ambos",4,Código SMS,Sí,5,0,Simulación,Sí,4,Un botón único para reportar
+58,Sí,26-35,Administrativo,Mensual,Sí,Sí,Nunca,Algunas,Solo banco,5,Huella o rostro,Sí,4,1-2,Taller presencial,Sí,3,Capacitación corta y frecuente
+59,Sí,46-55,Atención al público,Semanal,Sí,No,Con frecuencia,No,"Sí, en ambos",3,Huella o rostro,Sí,3,0,Taller presencial,Sí,3,Reconocimiento y no sanción
+60,Sí,>55,Atención al público,Diaria,Sí,No,Nunca,Sí,No,4,Notificación con número,Sí,2,0,Simulación,Depende,3,Capacitación corta y frecuente
+61,Sí,36-45,Administrativo,Diaria,Sí,Sí,Nunca,Sí,Solo banco,5,Huella o rostro,Sí,5,3-5,Video corto,Sí,5,Menos contraseñas
+62,Sí,26-35,Atención al público,Nunca,No,No,Nunca,No,"Sí, en ambos",5,Código SMS,Sí,5,0,Video corto,Sí,3,Capacitación corta y frecuente
+63,Sí,36-45,Administrativo,Mensual,No,Sí,Con frecuencia,Algunas,Solo banco,5,Código SMS,Sí,3,1-2,Lectura,Depende,2,Procesos más simples
+64,No,36-45,No aplica,Mensual,No,Sí,Nunca,Algunas,No,1,Huella o rostro,No,1,0,Taller presencial,Sí,1,Procesos más simples
