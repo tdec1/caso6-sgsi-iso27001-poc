@@ -6,7 +6,6 @@ Equipo Caso #6: Sophia Mateus, Samuel Calero, Andrés Gonzales y Thomas Duarte.
 ## Contenido
 - `poc_siem.py`: prueba de concepto del SIEM (Fase III). Simula 11 fuentes de eventos y 70 ataques sintéticos; calcula el volumen diario (GB/día) y mide la detección y la latencia p95.
 - `resultados_poc.json`: resultados de la ejecución.
-- `encuesta/encuesta_simulada.py` y `encuesta/respuestas_simuladas.csv`: simulación de la encuesta del Anexo C (n = 64).
 
 ## Ejecución
 Requiere Python 3, sin dependencias externas.
