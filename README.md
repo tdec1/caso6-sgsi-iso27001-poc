@@ -11,7 +11,7 @@ Equipo Caso #6: Sophia Mateus, Samuel Calero, Andrés Gonzales y Thomas Duarte.
 Requiere Python 3, sin dependencias externas.
 
     python3 poc_siem.py
-    python3 encuesta/encuesta_simulada.py
+    
 
 La semilla es fija (27001), por lo que los resultados son reproducibles.
 
